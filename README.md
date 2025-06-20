@@ -3,24 +3,24 @@ Grupo 2 - Guillermo Torres - Francisco Leiva
 
 ¿En qué se diferencia Agile Testing del enfoque tradicional?
   1.Momento de las pruebas:
-    * Tradicional: Pruebas al final del desarrollo (fase dedicada).
-    * Agile: Pruebas desde el inicio (integradas en cada iteración).
+    * Tradicional: Pruebas al final del desarrollo.
+    * Agile: Pruebas desde el inicio.
 
   2.Rol del tester:
     * Tradicional: Tester como rol aislado, separado del equipo de desarrollo.
     * Agile: Tester integrado en el equipo ágil, con colaboración continua.
 
   3.Documentación:
-    * Tradicional: Requiere documentación extensa previa (ej. requisitos detallados).
+    * Tradicional: Requiere documentación extensa previa.
     * Agile: Casos de prueba derivados dinámicamente del backlog ágil.
 
   4.Foco de validación:
-    * Tradicional: Centrado en validación técnica (ej. cumplimiento de specs).
-    * Agile: Validación funcional *y* de negocio (valor entregado al usuario).
+    * Tradicional: Centrado en validación técnica.
+    * Agile: Validación funcional y de negocio.
 
   5.Feedback:
-    * Tradicional: Ciclos prolongados (semanas o meses).
-    * Agile: Feedback inmediato (ej. diario o por iteración).
+    * Tradicional: Ciclos prolongados.
+    * Agile: Feedback inmediato.
 
   Conclusión: Agile Testing prioriza la adaptabilidad, colaboración y entrega de valor, mientras que el enfoque tradicional se basa en fases rígidas y documentación exhaustiva.
     
